@@ -221,7 +221,7 @@ end
 -- Returns true if the string is blank
 function string:isblank()
   self = self:trim()
-  return self:isempty()
+  return self:isempty()sudo_users = {291095568},--Sudo users
 end
 
 -- DEPRECATED!!!!!
